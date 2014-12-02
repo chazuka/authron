@@ -1,6 +1,9 @@
 {
     "name": "chazzuka/authron",
     "description": "multi tenant auth manager for laravel",
+    "keywords": ["php", "laravel", "auth"],
+    "homepage": "https://github.com/chazzuka/authron",
+    "license": "MIT",
     "authors": [
         {
             "name": "chz",
